@@ -87,5 +87,3 @@ That's it... you have successfully installed Splunk Universal forwarder on Linux
 Happy Splunking..!!
 
 
-
-Team - Soft Mania
