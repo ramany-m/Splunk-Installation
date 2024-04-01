@@ -90,7 +90,3 @@ Enable boot start
 That's it... you have successfully installed Splunk on Linux..!!
 
 Happy Splunking..!!
-
-
-
-Team - SplunkMania
