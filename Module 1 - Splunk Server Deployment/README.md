@@ -1,3 +1,5 @@
+### Splunk Enterprise Installation on Linux OS
+
 ## Step-1 : Become root user
 Login as "root" user using below command
 ```bash
