@@ -56,3 +56,8 @@ exit
 sudo /opt/splunk/bin/splunk stop
 sudo /opt/splunk/bin/splunk enable boot-start -user splunk
 ```
+## Start the Splunk
+```bash
+sudo /opt/splunk/bin/splunk start
+```
+
